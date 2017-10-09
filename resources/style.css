@@ -26,4 +26,8 @@ h3 {
 #footer, #footer a {
   background-color: dimgray;
   color: white;
+  text-align: left;
+}
+#copyright {
+  font-size: 11px;
 }
